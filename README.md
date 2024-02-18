@@ -67,37 +67,28 @@ Design and develop a dynamic, interactive Car Sales Dashboard to visualize criti
 **PROBLEM STATEMENT 1: KPI’s**
 
 **SALES OVERVIEW :**
-- **YTD Total Sales:** $371.2M
+- **YTD Total Sales:** $371.19M
     - **Formula:** `SUM('Car Data'[Total Sales])`
-- **MTD Total Sales:** $54.28M
-    - **Formula:** `CALCULATE(SUM('Car Data'[Total Sales]), DATESMTD('Calendar Table'[Date]))`
 - **YOY Growth in Total Sales:** 23.6%
     - **Formula:** `[Sales Difference]/[PTYD Total Sales]`
-- **Difference between YTD Sales and PTYD Sales:** $70.8M
-    - **Formula:** `[YTD Car Sales]-[PTYD Car Sales]`
+
 
 **AVERAGE PRICE ANALYSIS:**
-- **YTD Average Price:** $28.0k
+- **YTD Average Price:** $27.99k
     - **Formula:** `TOTALYTD([Avg Price],'Calendar Table'[Date])`
-- **MTD Average Price:** $28.26k
-    - **Formula:** `TOTALMTD([Avg Price],'Calendar Table'[Date])`
+
 - **YOY Growth in Average Price:** -0.79%
     - **Formula:** `[Avg Price Diff]/[PTYD Avg Price]`
-- **Difference between YTD Average Price and PTYD Average Price:** $0.22k loss
-    - **Formula:** `[YTD Avg Price]-[PTYD Avg Price]`
+
 
 
 **CARS SOLD METRICS :**
-- **YTD Cars Sold:** 13.3K
+- **YTD Cars Sold:** 13.26K
     - **Formula:** `SUM('Car Data'[YTD Car Solds])`
-- **MTD Cars Sold:** 1.92k
-    - **Formula:** `CALCULATE(SUM('Car Data'[MTD Cars Sold]), DATESMTD('Calendar Table'[Date]))`
-- **YOY Growth in
 
--  Cars Sold:** 19.73%
-    - **Formula:** `car_data[Cars Sold Diff]/[YTD Car Solds]`
-- **Difference between YTD Cars Sold and PTYD Cars Sold:** 3K
-    - **Formula:** `[YTD Car Solds]-[PTYD Car Solds]`
+- **YOY Growth in YTD Car sold:**24.57%
+
+
 
 
  ## Done by
