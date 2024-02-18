@@ -52,3 +52,9 @@ Design and develop a dynamic, interactive Car Sales Dashboard to visualize criti
 - Phone
 - Dealer Region
 
+
+### Calendar Table (Created):
+- Date
+- Month
+- Week
+- Year
