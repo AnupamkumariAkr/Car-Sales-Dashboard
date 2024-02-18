@@ -10,17 +10,17 @@ Design and develop a dynamic, interactive Car Sales Dashboard to visualize criti
 ### SALES OVERVIEW: 
 - Year-to-Date (YTD) Total Sales
 - Year-over-Year (YOY) Growth in Total Sales
-- Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
+
 
 - ### AVERAGE PRICE ANALYSIS:
 - YTD Average Price
 - YOY Growth in Average Price
-- Difference between YTD Average Price and PTYD Average Price
+  
 
 - ### CARS SOLD METRICS:
 - YTD Cars Sold
 - YOY Growth in Cars Sold
-- Difference between YTD Cars Sold and PTYD Cars Sold
+
 
 ## PROBLEM STATEMENT 2: CHARTS REQUIRENMENT
 1. **YTD Sales Weekly Trend:** Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
