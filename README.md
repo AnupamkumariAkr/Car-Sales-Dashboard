@@ -59,4 +59,6 @@ Design and develop a dynamic, interactive Car Sales Dashboard to visualize criti
 - Week
 - Year
 
-- ###  DASHBOARD: 
+- ###  DASHBOARD:
+- 
+![Dashboard 1 (2)](https://github.com/AnupamkumariAkr/Car-Sales-Dashboard/assets/157566167/fdd317c4-e987-45e6-81d0-96a5ec380785)
